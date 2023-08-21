@@ -63,9 +63,9 @@ namespace ClinicaOdontologica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap agendamento {
+        internal static System.Drawing.Bitmap _155904889430781 {
             get {
-                object obj = ResourceManager.GetObject("agendamento", resourceCulture);
+                object obj = ResourceManager.GetObject("155904889430781", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace ClinicaOdontologica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fundo {
+        internal static System.Drawing.Bitmap L012__28898 {
             get {
-                object obj = ResourceManager.GetObject("fundo", resourceCulture);
+                object obj = ResourceManager.GetObject("L012__28898", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,29 @@ namespace ClinicaOdontologica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap menu {
+        internal static System.Drawing.Bitmap mascotepng {
             get {
-                object obj = ResourceManager.GetObject("menu", resourceCulture);
+                object obj = ResourceManager.GetObject("mascotepng", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap papel_de_parede_azul_degrade {
+            get {
+                object obj = ResourceManager.GetObject("papel-de-parede-azul-degrade", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tecido_liso_azul_turquesa_claro {
+            get {
+                object obj = ResourceManager.GetObject("tecido-liso-azul-turquesa-claro", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

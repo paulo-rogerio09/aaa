@@ -28,5 +28,16 @@ namespace ClinicaOdontologica.Telas
             AgendarTratamento tratamento = new AgendarTratamento();
             tratamento.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Agenda agenda = new Agenda();
+            agenda.ShowDialog();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

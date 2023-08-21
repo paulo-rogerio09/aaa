@@ -24,11 +24,13 @@ C:\Users\pedro\source\repos\ClinicaOdontologica\ClinicaOdontologica\obj\Debug\Cl
 C:\Users\pedro\source\repos\ClinicaOdontologica\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.exe
 C:\Users\pedro\source\repos\ClinicaOdontologica\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.pdb
 C:\Users\pedro\source\repos\ClinicaOdontologica\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Telas.AgendarTratamento.resources
+C:\Users\pedro\source\repos\ClinicaOdontologica\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Telas.Agenda.resources
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\bin\Debug\ClinicaOdontologica.exe.config
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\bin\Debug\ClinicaOdontologica.exe
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\bin\Debug\ClinicaOdontologica.pdb
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.csproj.AssemblyReference.cache
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.csproj.SuggestedBindingRedirects.cache
+C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Telas.Agenda.resources
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Form1.resources
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Properties.Resources.resources
 C:\Users\secun\OneDrive\Área de Trabalho\ClinicaPedro-main\ClinicaOdontologica\obj\Debug\ClinicaOdontologica.Telas.Menu.resources

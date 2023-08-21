@@ -12,13 +12,16 @@ namespace ClinicaOdontologica.Entidades
         public string Horario { get; set; }
         public string TipoTratamento { get; set; }
 
+        public string Cliente { get; set; }
+
         public Tratamento()
         {
 
         }
 
-        public Tratamento(string data, string horario, string tipoTratamento)
+        public Tratamento(string cliente, string data, string horario, string tipoTratamento)
         {
+            this.Cliente = cliente;
             this.Data = data;
             this.Horario = horario;
             this.TipoTratamento = tipoTratamento;
@@ -27,3 +30,4 @@ namespace ClinicaOdontologica.Entidades
 
     }
 }
+
